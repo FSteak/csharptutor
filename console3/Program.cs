@@ -7,7 +7,7 @@ namespace helix
         static void Main(string[] args)
         {
             const String nickname = "helix";
-            nickname = "fluff you";
+            nickname = "fdamage";
             Console.Write(nickname);
         }
     }
