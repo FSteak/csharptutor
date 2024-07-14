@@ -6,8 +6,11 @@ namespace helix
     {
         static void Main(string[] args)
         {
-            const String nickname = "helix";
-            nickname = "fluff you";
+            // its jus about constants C:
+            const string nickname = "helix";
+            // i'm constant
+            nickname = "damag";
+            // damage ^
             Console.Write(nickname);
         }
     }

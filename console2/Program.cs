@@ -16,7 +16,7 @@ namespace helix
             char hex;
             hex = '#';
 
-            String hexil;
+            string hexil;
             hexil = "helix";
 
             int ages = age + axes;
@@ -25,7 +25,7 @@ namespace helix
             Console.WriteLine("Your age is " + age);
             Console.WriteLine("Age + Axes = " + ages);
             Console.WriteLine(hexil + ages + helix);
-            Console.WriteLine("yo mom is " + hex + hexil);
+            Console.WriteLine("yo is " + hex + hexil);
 
             Console.ReadKey();
         }
